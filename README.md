@@ -4,7 +4,7 @@ TensorFlow simple helper.
 # Usage
 ## Define model, train and save
 
-```
+```python
 import numpy as np
 def get_graph():
     graph = tf.Graph()
@@ -46,7 +46,8 @@ with RmModel() as model:
 ```
 
 ## Load model and inference
-```
+
+```python
 with RmModel() as model:
     input_op, output_op = model.load('./saved', [
         'input/input_data:0',
