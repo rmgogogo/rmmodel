@@ -5,7 +5,7 @@ import os
 It's a simple helper class for TensorFlow.
 It's mainly for quickly save/restore models.
 Alternatively, you can choose Keras.
-Author: Renmin Gu
+Author: RMGU
 """
 
 class RmModel:
