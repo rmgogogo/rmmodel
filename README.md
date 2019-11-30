@@ -1,7 +1,8 @@
+# This project is deprecated as TensorFlow already provides high level APIs keras TF2 etc.
+
 # RmModel
 TensorFlow simple helper.
 
-*This project is deprecated as TensorFlow already provides high level APIs recently.*
 
 # Usage
 ## Define model, train and save
